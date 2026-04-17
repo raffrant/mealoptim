@@ -1,4 +1,4 @@
-# 🍝 MealOptim — Recipe Cost Optimizer
+# 🛒 mealoptim
 
 A Streamlit app that scrapes **real, live prices** from Greek supermarkets and finds the cheapest way to cook any recipe — either by shopping at one store or mixing across stores for maximum savings.
 
