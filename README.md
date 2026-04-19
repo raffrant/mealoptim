@@ -15,7 +15,8 @@
 | **Results** | Store cards ranked by cost, time, or best balance — with per-ingredient price breakdown |
 | **Map** | Visual route optimizer showing walking/driving times and a Google Maps deep-link |
 
-**20 countries supported** — Greece, US, UK, Germany, France, Spain, Italy, Australia, Canada, Japan, Netherlands, Sweden, Brazil, India, Singapore, China, Mexico, South Africa, Poland, and Portugal — each with their own local supermarket chains and currency.
+**1 countries supported** — Greece
+Can be scaled to other countries. 
 
 ---
 
