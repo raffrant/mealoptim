@@ -1,6 +1,6 @@
 # 🛒 mealoptim
 
-> **Cook smarter, spend less.** Paste any recipe, compare prices at every supermarket near you, and find the cheapest shopping route — powered by Claude AI.
+> **Cook smarter, spend less.** Paste any recipe, compare prices at every supermarket near you, and find the cheapest shopping route — powered by Claude Code and myself.
 
 ---
 
